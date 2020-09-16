@@ -200,6 +200,14 @@ class SeleniumDriver():
         """
         self.driver.switch_to.default_content()
 
+
+
+
+
+
+
+
+
     # def random_generator(self, size=9, chars=string.ascii_lowercase + string.digits):
     #     return ''.join(random.choice(chars) for x in range(size)
 
@@ -207,3 +215,29 @@ class SeleniumDriver():
 
 
    # pytest -s -v "Sanity"--html=base/report.html test/customer/search_customer_test.py
+
+
+    # Push the code to Git and GitHub Repository
+
+    # 1)Create an empty git repository(local repository)
+    # git init
+
+    # 2)Connect your local git(local rep) with github(global rep)
+    # git remote add origin
+
+    # 3)Checking the status of files(committed/not committed)
+    # git status
+
+    # 4)Add all the files to the staging area
+    # git add -A   -----> Add all the files to staging/indexing area
+
+    # 5)Commit the code into git repository(local rep)
+    # git commit -m "comment"
+
+    # 6)Push the code from git into the github repository)
+    # git push -u origin master
+
+    # 1) git pull
+    # 2) git add -A  this command should follow after the new file has been added and updated
+    # 3) git commit -m "comment"
+#   # 4)git push -u origin master
