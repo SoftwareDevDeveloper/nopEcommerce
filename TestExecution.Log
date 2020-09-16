@@ -1,0 +1,25 @@
+09/15/2020 11:17:27 PM - SeleniumDriver - INFO: Element found with locator: Email and locatorType: id
+09/15/2020 11:17:27 PM - SeleniumDriver - INFO: Element found with locator: Password and locatorType: id
+09/15/2020 11:17:27 PM - SeleniumDriver - INFO: Element found with locator: Email and locatorType: id
+09/15/2020 11:17:27 PM - SeleniumDriver - INFO: Sent data on the element with locator: Email and locatorType: id
+09/15/2020 11:17:27 PM - SeleniumDriver - INFO: Element found with locator: Password and locatorType: id
+09/15/2020 11:17:27 PM - SeleniumDriver - INFO: Sent data on the element with locator: Password and locatorType: id
+09/15/2020 11:17:27 PM - SeleniumDriver - INFO: Element found with locator: //input[@type='checkbox'] and locatorType: xpath
+09/15/2020 11:17:27 PM - SeleniumDriver - INFO: Clicked on the element with locator: //input[@type='checkbox'] and locatorType: xpath
+09/15/2020 11:17:27 PM - SeleniumDriver - INFO: Element found with locator: //input[@class='button-1 login-button'] and locatorType: xpath
+09/15/2020 11:17:34 PM - SeleniumDriver - INFO: Clicked on the element with locator: //input[@class='button-1 login-button'] and locatorType: xpath
+09/15/2020 11:17:34 PM - SeleniumDriver - INFO: Element found with locator: //input[@id='SearchEmail'] and locatorType: xpath
+09/15/2020 11:17:34 PM - SeleniumDriver - INFO: Sent data on the element with locator: //input[@id='SearchEmail'] and locatorType: xpath
+09/15/2020 11:17:41 PM - SeleniumDriver - INFO: Element found with locator: Email and locatorType: id
+09/15/2020 11:17:41 PM - SeleniumDriver - INFO: Element found with locator: Password and locatorType: id
+09/15/2020 11:17:41 PM - SeleniumDriver - INFO: Element found with locator: Email and locatorType: id
+09/15/2020 11:17:41 PM - SeleniumDriver - INFO: Sent data on the element with locator: Email and locatorType: id
+09/15/2020 11:17:41 PM - SeleniumDriver - INFO: Element found with locator: Password and locatorType: id
+09/15/2020 11:17:41 PM - SeleniumDriver - INFO: Sent data on the element with locator: Password and locatorType: id
+09/15/2020 11:17:41 PM - SeleniumDriver - INFO: Element found with locator: //input[@type='checkbox'] and locatorType: xpath
+09/15/2020 11:17:41 PM - SeleniumDriver - INFO: Clicked on the element with locator: //input[@type='checkbox'] and locatorType: xpath
+09/15/2020 11:17:41 PM - SeleniumDriver - INFO: Element found with locator: //input[@class='button-1 login-button'] and locatorType: xpath
+09/15/2020 11:17:50 PM - SeleniumDriver - INFO: Clicked on the element with locator: //input[@class='button-1 login-button'] and locatorType: xpath
+09/15/2020 11:17:50 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='search-text'][contains(text(),'Search')] and locatorType: xpath
+09/15/2020 11:17:50 PM - SeleniumDriver - INFO: Element found with locator: //div[@class='search-text'][contains(text(),'Search')] and locatorType: xpath
+09/15/2020 11:18:02 PM - SeleniumDriver - ERROR: Element not found with locator: //td[@class='dataTables_empty'][contains(text(),'No data available in table')] and locatorType: xpath
